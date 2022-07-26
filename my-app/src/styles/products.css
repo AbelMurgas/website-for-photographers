@@ -1,0 +1,41 @@
+.products img{
+ width: 100%;
+ border-radius: 9px;
+
+}
+
+.products{
+ margin-top: 40px;
+ height: 500px;
+}
+
+.card-product{
+ width: 200px;
+ height: 600px;
+ padding: 10PX;
+ position: relative;
+ 
+}
+
+.products i{
+ color: #FFEA11;
+}
+
+.price{
+ color: #5A8F7B;
+ font-weight: 700;
+}
+
+.card-product--badge{
+ text-align: center;
+ background-color: red;
+ padding: 2px;
+ position: absolute;
+ width: 90px;
+ font-size: 12px;
+ top: 14px;
+ left: 14px;
+ z-index: 100;
+ color: aliceblue;
+ font-weight: 700;
+}

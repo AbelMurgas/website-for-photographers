@@ -1,0 +1,39 @@
+.flex-r{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ gap: 10px;
+}
+
+.flex-center{
+ justify-content: center;
+}
+
+.flex-start{
+ justify-content: baseline;
+}
+
+.flex-join {
+ align-self: center;
+}
+
+.flex-self-start {
+ align-self: flex-start;
+
+}
+
+.flex-self-end {
+ align-self: flex-end;
+}
+
+.flex-c{
+ display: flex;
+ flex-direction: column;
+ gap: 10px;
+}
+
+.container {
+ height: 400px;
+ max-width: 900px;
+ margin: 0 auto;
+}
