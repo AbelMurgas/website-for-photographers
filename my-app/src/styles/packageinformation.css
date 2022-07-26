@@ -1,0 +1,14 @@
+.professor-information{
+ margin-top: 30px;
+ padding: 30px;
+ height: auto;
+}
+
+.professor-information h1{
+ margin-bottom: 15px;
+ color: #355764;
+}
+
+.professor-information p{
+ line-height: 25px;
+}

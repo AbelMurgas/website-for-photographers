@@ -1,0 +1,11 @@
+.image-container img { 
+ max-height: 150px;
+ border-radius: 8.95px;
+}
+
+.image-container{
+ height: 400px;
+ max-width: 1200px;
+ margin: 0 auto;
+ margin-top: 30px;
+}
